@@ -45,9 +45,10 @@ namespace WebApplication1.Services
                 products.First(x => x.Id == productId).Ratings = ratings.ToArray();
             }
 
-            using var outputStream = File.OpenWrite(JsonFileName);
+            using (var outputStream = File.OpenWrite(JsonFileName))
+            {
 
-            JsonSerializer.Serialize<IEnumerable<Product>>(
+                JsonSerializer.Serialize<IEnumerable<Product>>(
                 new Utf8JsonWriter(outputStream, new JsonWriterOptions
                 {
                     SkipValidation = true,
@@ -55,6 +56,8 @@ namespace WebApplication1.Services
                 }),
                 products
             );
+
+            }
         }
     }
 }
