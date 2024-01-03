@@ -38,3 +38,8 @@ C:\Users\Muhammad Ariffanka\source\repos\WebApplication1\WebApplication1\obj\Deb
 C:\Users\Muhammad Ariffanka\source\repos\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.pdb
 C:\Users\Muhammad Ariffanka\source\repos\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.genruntimeconfig.cache
 C:\Users\Muhammad Ariffanka\source\repos\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.csproj.CopyComplete
+C:\Users\Muhammad Ariffanka\source\repos\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.RazorComponent.input.cache
+C:\Users\Muhammad Ariffanka\source\repos\WebApplication1\WebApplication1\obj\Debug\net5.0\RazorDeclaration\Components\ProductList.razor.g.cs
+C:\Users\Muhammad Ariffanka\source\repos\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.RazorComponent.output.cache
+C:\Users\Muhammad Ariffanka\source\repos\WebApplication1\WebApplication1\obj\Debug\net5.0\RazorDeclaration\WebApplication1.dll
+C:\Users\Muhammad Ariffanka\source\repos\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Components\ProductList.razor.g.cs

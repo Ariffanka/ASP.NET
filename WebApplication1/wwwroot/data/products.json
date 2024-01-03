@@ -8,7 +8,14 @@
     "description": "This project is a good learning project to get comfortable with soldering and programming an Arduino.",
     "Ratings": [
       5,
-      4
+      4,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5
     ]
   },
   {
@@ -29,7 +36,9 @@
     "Url": "https://www.hackster.io/agent-hawking-1/bling-your-laptop-with-an-internet-connected-light-show-30e4db",
     "Title": "Bling your Laptop with an Internet-Connected Light Show",
     "description": "Create a web-connected light-strip API controllable from your website, using the Particle.io.",
-    "Ratings": null
+    "Ratings": [
+      5
+    ]
   },
   {
     "Id": "jenlooper-survival",
@@ -56,7 +65,12 @@
     "Url": "https://twitter.com/sailorhg/status/1090113666911891456",
     "Title": "Light-up Corsage",
     "description": "Light-up corsage I made with my summer intern.",
-    "Ratings": null
+    "Ratings": [
+      5,
+      2,
+      3,
+      3
+    ]
   },
   {
     "Id": "sailorhg-kit",
@@ -101,7 +115,12 @@
     "Url": "https://www.vogueandcode.com/shop/hipster-dev-bro",
     "Title": "Hipster Dev",
     "description": "Hipster Dev is busy coding away while styled in a camo jacket and orange beanie.",
-    "Ratings": null
+    "Ratings": [
+      5,
+      2,
+      3,
+      5
+    ]
   },
   {
     "Id": "vogueandcode-pretty-girls-code-tee",
